@@ -1,0 +1,18 @@
+Origin: formaggio-software
+Label: formaggio-software rhtop
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Signed APT packages for rhtop
+Date: Wed, 18 Nov 2026 23:32:29 GMT
+MD5Sum:
+ 4800f12fbf076a0ac033e7b0ab86ecee              580 main/binary-amd64/Packages
+ bf45d5907ebd4b011b5498dd259724ae              429 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-arm64/Packages
+ fa9ac5a217b5547bc7dd4e6e894fe135               20 main/binary-arm64/Packages.gz
+SHA256:
+ e8d2e890f18312cdd15ef76529ed5773663e4aba863ad5b8cc992fa8dc0f0eae              580 main/binary-amd64/Packages
+ b42a4b53092bc418fa6bd109d35d7b6c578400db3c82f74133767fb68447fa50              429 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-arm64/Packages
+ 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64               20 main/binary-arm64/Packages.gz
