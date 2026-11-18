@@ -1,0 +1,11 @@
+*.key
+*.gpg-private
+*.asc-private
+__pycache__/
+.DS_Store
+AGENTS.md
+.venv/
+.env
+.env.*
+!.env.example
+.npmrc
