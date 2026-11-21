@@ -1,3 +1,19 @@
+Package: kaltui
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Formaggio Software <contact@formaggio.software>
+Depends: libc6 (>= 2.36), libstdc++6, zlib1g
+Filename: pool/main/p/kaltui/kaltui_0.0.1_amd64.deb
+Size: 19643496
+MD5sum: c978fa9cbb775764bd47d9a6acc6bd37
+SHA1: a20be761a227e167d605062754eecf83975b6ddc
+SHA256: 53eb1093d0f764510a32ff069699494513a697c7906a3a94fc32da3ea72edf71
+Section: utils
+Priority: optional
+Homepage: https://github.com/formaggio-software/kaltui
+Description: Kalshi terminal dashboard
+ Proprietary binary distribution. Read-only market and portfolio dashboard.
+
 Package: rhtop
 Version: 0.0.6
 Architecture: amd64
