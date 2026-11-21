@@ -14,3 +14,19 @@ Homepage: https://github.com/formaggio-software/rhtop
 Description: Read-only Robinhood MCP terminal dashboard
  Proprietary binary distribution. No trading actions.
 
+Package: rhtop
+Version: 1.1.2
+Architecture: amd64
+Maintainer: Formaggio Software <contact@formaggio.software>
+Depends: libc6 (>= 2.36), libstdc++6, zlib1g
+Filename: pool/main/p/rhtop/rhtop_1.1.2_amd64.deb
+Size: 28643048
+MD5sum: 2e63b3430307365d1bb9aa171573f443
+SHA1: 3c2a563166cd65b3286388b3b38a0f1be8282512
+SHA256: 6a0a2094d58f63bf68c38328fbabdb959a3ffd3895f7eb26e33eb9794b1013c4
+Section: utils
+Priority: optional
+Homepage: https://github.com/formaggio-software/rhtop
+Description: Robinhood MCP terminal dashboard
+ Proprietary binary distribution. Features depend on plan and broker permissions.
+
